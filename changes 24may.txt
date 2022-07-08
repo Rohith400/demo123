@@ -1,0 +1,27 @@
+CHG0094823-APP13680-PROD-API Gateway
+24-05-2022 21:00:00
+25-05-2022 05:00:00
+No impact to any service or consumer.
+
+
+CHG0091026-APP13680-PROD-API Gateway
+25-05-2022 21:00:00
+26-05-2022 05:00:00
+no impact to any service or consumer.
+
+CHG0095473-APP13680-PROD-API Gateway
+25-05-2022 21:00:00
+26-05-2022 05:00:00
+no impact to any service or consumer.
+
+CHG0095754-APP13680-PROD-API Gateway
+26-05-2022 21:00:00
+27-05-2022 05:00:00
+No impact to any service or consumer.
+
+CHG0096078-APP13680-PROD-API Gateway 197149119
+27-05-2022 21:00:00
+28-05-2022 05:00:00
+No impact to any service or consumer.
+
+CHG0095798-APP13680-PROD-API Gateway
